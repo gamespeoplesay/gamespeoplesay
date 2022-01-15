@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gamespeoplesay
+- 👀 I’m interested in Ionic Framework & WP Web development
+- 🌱 I’m currently learning everything  
+- 💞️ I’m looking to collaborate on Space Projects with NASA & Elon Mask  
+- 📫 Reach me by email at info(at)gamespeoplesay.com
